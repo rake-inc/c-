@@ -3,7 +3,7 @@
 <ol>
 <li>Breadth First Search</li>
 <li>Heap Sort</li>
-<li>Binary Tree (Insertion,traversal(Preorder,Postorder,inorder)</li>
+<li>Binary Tree (Insertion,traversal(Preorder,Postorder,inorder))</li>
 </ol>
 <h2>OOPS Concepts</h2>
 <ol>
